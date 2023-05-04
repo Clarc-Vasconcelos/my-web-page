@@ -7,6 +7,13 @@
   background-attachment: fixed;
 }
 
+/* media query" do botao contatar */
+@media (max-width: 640px) {
+  .mailtoHeader {
+    opacity: 0;
+  }
+}
+
 .sobrePaiHeader {
   background-color: black;
 }
