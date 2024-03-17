@@ -1,2 +1,2 @@
-Web page pessoal, contendo práticas de aula.
-objetivo: mostar um pouco sobre mim, com uma conteúdo responsivo.
+<h1>Web page pessoal</h1>
+> Status do projeto: em desenvolvimento.
