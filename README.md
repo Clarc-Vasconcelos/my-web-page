@@ -4,7 +4,8 @@
 Este é o repositório que possui o código-fonte da minha web page, projetada com uso de HTML5 e CSS3. A página é composta por informações a meu respeito. 
 
 ## Vizualize a Página
-![web-page](https://github.com/Clarc-Vasconcelos/primeiro-projeto-testando-os-conhecimentos/assets/129234188/2bf8b3fe-65f6-42f3-887a-35d31086358e)
+![web-page2](https://github.com/Clarc-Vasconcelos/My-Web-Page/assets/129234188/f36a7cc8-88c3-4120-8d83-8acd8def7fe6)
+
 
 <br />
 
